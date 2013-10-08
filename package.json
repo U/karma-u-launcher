@@ -1,0 +1,23 @@
+{
+  "name": "karma-u-launcher",
+  "version": "0.0.1",
+  "description": "A Karma plugin. Launcher for U.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/U/karma-u-launcher.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-launcher",
+    "U"
+  ],
+  "author": "Max Stoliar <hexelon@gmail.com>",
+  "dependencies": {},
+  "peerDependencies": {
+    "karma": ">=0.9.3"
+  }
+}
