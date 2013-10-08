@@ -9,7 +9,7 @@ The easiest way is to keep `karma-u-launcher` as a devDependency in your `packag
 {
   "devDependencies": {
     "karma": "~0.10",
-    "karma-chrome-launcher": "git://github.com/U/karma-u-launcher.git"
+    "karma-u-launcher": "git://github.com/U/karma-u-launcher.git"
   }
 }
 ```
